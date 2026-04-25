@@ -1,0 +1,256 @@
+# depslib dependency file v1.0
+1732280955 source:z:\c++\intit_dev2\s102-\s102\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1729577315 source:z:\c++\intit_dev2\s102-\s102\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1733842835 source:z:\c++\intit_dev2\s102-\s102\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Image.h"
+	"personnage.h"
+
+1733843217 source:z:\c++\intit_dev2\s102-\s102\src\personnage.cpp
+	<iostream>
+	"personnage.h"
+	"Image.h"
+
+1733760822 z:\c++\intit_dev2\s102-\s102\include\personnage.h
+	<memory>
+	"Image.h"
+	<iostream>
+	<vector>
+	<string>
+
+1732720588 z:\c++\intit_dev2\s102-\s102\include\image.h
+	<memory>
+	"Moteur.h"
+
+1732719715 z:\c++\intit_dev2\s102-\s102\include\moteur.h
+	<iostream>
+	<SDL.h>
+
+1733757035 source:z:\c++\intit_dev2\s102-\s102\personnage.cpp
+
+1734185553 source:c:\users\ylan-\documents\tp_initidedv2\s104-jeu\s102\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1734185553 source:c:\users\ylan-\documents\tp_initidedv2\s104-jeu\s102\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1734188988 source:c:\users\ylan-\documents\tp_initidedv2\s104-jeu\s102\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+
+1734187879 source:c:\users\ylan-\documents\tp_initidedv2\s104-jeu\s102\src\personnage.cpp
+	<iostream>
+	"personnage.h"
+	"Image.h"
+
+1734533282 source:c:\users\mdu1\downloads\s102 (2)\s102\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1734533282 source:c:\users\mdu1\downloads\s102 (2)\s102\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1734533282 source:c:\users\mdu1\downloads\s102 (2)\s102\src\personnage.cpp
+	<iostream>
+	"personnage.h"
+	"Image.h"
+
+1734538028 source:c:\users\mdu1\downloads\s102 (2)\s102\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+	"Tuile.h"
+	"Dictionnaire.h"
+
+1734537882 source:c:\users\mdu1\downloads\s102 (2)\s102\src\dictionnaire.cpp
+	<iostream>
+	"Tuile.h"
+	"Image.h"
+	"Dictionnaire.h"
+
+1734537852 source:c:\users\mdu1\downloads\s102 (2)\s102\src\tuile.cpp
+	<iostream>
+	"Tuile.h"
+	"Image.h"
+
+1734901931 source:c:\users\ylan-\documents\s104-jeuuuu\s102\s102\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1734901931 source:c:\users\ylan-\documents\s104-jeuuuu\s102\s102\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1734901931 source:c:\users\ylan-\documents\s104-jeuuuu\s102\s102\src\personnage.cpp
+	<iostream>
+	"personnage.h"
+	"Image.h"
+
+1734905241 source:c:\users\ylan-\documents\s104-jeuuuu\s102\s102\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+	"Tuile.h"
+	"Dictionnaire.h"
+
+1734904777 source:c:\users\ylan-\documents\s104-jeuuuu\s102\s102\src\tuile.cpp
+	<iostream>
+	"Tuile.h"
+	"Image.h"
+
+1734904996 source:c:\users\ylan-\documents\s104-jeuuuu\s102\s102\src\dictionnaire.cpp
+	"Dictionnaire.h"
+	<fstream>
+	<iostream>
+
+1734905771 source:c:\users\ylan-\documents\s104-jeuuuu\s102\s102\src\objet.cpp
+
+1734901930 source:c:\users\ylan-\documents\jeuu\s102\s102\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1735995942 source:c:\users\ylan-\documents\jeuu\s102\s102\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+	"Tuile.h"
+	"Dictionnaire.h"
+	"objet.h"
+	"Niveau.h"
+
+1734901930 source:c:\users\ylan-\documents\jeuu\s102\s102\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1735995501 source:c:\users\ylan-\documents\jeuu\s102\s102\src\objet.cpp
+	"Objet.h"
+	"Image.h"
+	"Dictionnaire.h"
+	"Tuile.h"
+	<stdexcept>
+	<iostream>
+
+1734901930 source:c:\users\ylan-\documents\jeuu\s102\s102\src\personnage.cpp
+	<iostream>
+	"personnage.h"
+	"Image.h"
+
+1735911190 source:c:\users\ylan-\documents\jeuu\s102\s102\src\tuile.cpp
+	<iostream>
+	"Tuile.h"
+	"Image.h"
+
+1735911014 source:c:\users\ylan-\documents\jeuu\s102\s102\src\dictionnaire.cpp
+	"Dictionnaire.h"
+	<fstream>
+	<iostream>
+
+1735995497 c:\users\ylan-\documents\jeuu\s102\s102\include\objet.h
+	"Image.h"
+	"Dictionnaire.h"
+	<string>
+
+1734901926 c:\users\ylan-\documents\jeuu\s102\s102\include\image.h
+	<memory>
+	"Moteur.h"
+
+1734901926 c:\users\ylan-\documents\jeuu\s102\s102\include\moteur.h
+	<iostream>
+	<SDL.h>
+
+1735911017 c:\users\ylan-\documents\jeuu\s102\s102\include\dictionnaire.h
+	<memory>
+	"Image.h"
+	"Tuile.h"
+	<fstream>
+	<iostream>
+	<vector>
+	<string>
+
+1735911234 c:\users\ylan-\documents\jeuu\s102\s102\include\tuile.h
+	<memory>
+	"Image.h"
+	<iostream>
+	<vector>
+	<string>
+
+1735997212 source:c:\users\ylan-\documents\jeuu\s102\s102\src\niveau.cpp
+	"Niveau.h"
+	"Tuile.h"
+	"Image.h"
+	"Dictionnaire.h"
+	"objet.h"
+	<fstream>
+	<iostream>
+
+1735911014 source:c:\users\ylan-\documents\game\s102(2)\s102\src\dictionnaire.cpp
+	"Dictionnaire.h"
+	<fstream>
+	<iostream>
+
+1734901930 source:c:\users\ylan-\documents\game\s102(2)\s102\src\image.cpp
+	<SDL_image.h>
+	<exception>
+	"Image.h"
+
+1736193843 source:c:\users\ylan-\documents\game\s102(2)\s102\src\main.cpp
+	<vector>
+	"Moteur.h"
+	"Image.h"
+	"Personnage.h"
+	"Tuile.h"
+	"Dictionnaire.h"
+	"objet.h"
+	"Niveau.h"
+
+1734901930 source:c:\users\ylan-\documents\game\s102(2)\s102\src\moteur.cpp
+	<SDL_image.h>
+	"Moteur.h"
+
+1736190507 source:c:\users\ylan-\documents\game\s102(2)\s102\src\niveau.cpp
+	"Niveau.h"
+	"Tuile.h"
+	"Image.h"
+	"Dictionnaire.h"
+	"objet.h"
+	<fstream>
+	<iostream>
+
+1736109686 source:c:\users\ylan-\documents\game\s102(2)\s102\src\objet.cpp
+	"Objet.h"
+	"Image.h"
+	"Dictionnaire.h"
+	"Tuile.h"
+	<stdexcept>
+	<iostream>
+
+1736110404 source:c:\users\ylan-\documents\game\s102(2)\s102\src\personnage.cpp
+	<iostream>
+	"personnage.h"
+	"Image.h"
+
+1735911190 source:c:\users\ylan-\documents\game\s102(2)\s102\src\tuile.cpp
+	<iostream>
+	"Tuile.h"
+	"Image.h"
+
